@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sp_primary">#2D3A8C</color>
+    <color name="sp_on_primary">#FFFFFF</color>
+    <color name="sp_primary_container">#E6E9FB</color>
+    <color name="sp_bg">#F3F5FB</color>
+    <color name="sp_surface">#FFFFFF</color>
+    <color name="sp_text">#151B33</color>
+    <color name="sp_text_secondary">#4A5273</color>
+    <color name="sp_outline">#C5CBE3</color>
+    <color name="sp_danger">#9C1C14</color>
+    <color name="sp_danger_bg">#FDE3E1</color>
+    <color name="sp_warn">#8A5100</color>
+    <color name="sp_warn_bg">#FFF1D6</color>
+    <color name="sp_ok">#1B6B3A</color>
+    <color name="sp_ok_bg">#DDF3E4</color>
+</resources>
